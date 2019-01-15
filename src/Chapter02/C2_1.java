@@ -1,7 +1,7 @@
 package Chapter02;
 
-
 import java.util.Scanner;
+
 /**
  * Program to receive inputs, store them into variables and then calculate them
  * in a formula
